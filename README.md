@@ -20,13 +20,19 @@ Each convolution learns a 3 x 3 kernel and directly interpolates it to a dense t
 
 ### Selected comparisons
 
-Qualitative comparisons on TNO (scene 16), FLIR (scene 19) and NIR (Country scene 13).
+Two qualitative comparisons per dataset: TNO (scenes 16 and 1), FLIR (scenes 19 and 17) and NIR (Country scenes 13 and 30).
 
-![TNO comparison](figures/comparison_TNO.png)
+![TNO comparison: scene 16](figures/comparison_TNO.png)
 
-![FLIR comparison](figures/comparison_FLIR.png)
+![TNO comparison: scene 1](figures/comparison_TNO_1.png)
 
-![NIR comparison](figures/comparison_NIR.png)
+![FLIR comparison: scene 19](figures/comparison_FLIR.png)
+
+![FLIR comparison: scene 17](figures/comparison_FLIR_17.png)
+
+![NIR comparison: Country scene 13](figures/comparison_NIR.png)
+
+![NIR comparison: Country scene 30](figures/comparison_NIR_30.png)
 
 ## Setup
 
