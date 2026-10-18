@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Datasets/
+splits_flir180_clean/
+results/
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.onnx
