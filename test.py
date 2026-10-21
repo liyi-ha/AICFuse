@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Test a trained pure-interpolation model on TNO, NIR and FLIR.
+Evaluate AICFuse on TNO, NIR and FLIR.
 """
 import argparse
 from pathlib import Path

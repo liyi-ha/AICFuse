@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Pure-interpolation AICFuse training and validation.
+AICFuse training and validation.
 
 Split seed is fixed (default 2026).
 Training seed controls initialization/augmentation only.

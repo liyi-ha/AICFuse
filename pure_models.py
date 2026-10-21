@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""AICFuse backbone with pure 3x3-to-5/7/9 interpolation."""
+"""AICFuse backbone with anchor-interpolated 5x5, 7x7 and 9x9 kernels."""
 import torch
 from torch import nn
 

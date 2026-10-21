@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Pure bilinear interpolation convolution without gate/local branch/norm."""
+"""Anchor-Interpolated Convolution with a compact learnable kernel."""
 import torch
 from torch import nn
 import torch.nn.functional as F
